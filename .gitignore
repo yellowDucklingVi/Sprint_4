@@ -1,0 +1,23 @@
+# Mac системные файлы
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Maven
+target/
+.mvn/wrapper/maven-wrapper.properties
+
+# Логи
+*.log
+
+# Временные файлы
+tmp/
+temp/
+
+# Системные файлы
+Thumbs.db
+desktop.ini
